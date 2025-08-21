@@ -3,6 +3,13 @@ Time series forecasting of Spain’s hourly electricity demand using IBM Granite
 
 ___________________
 
+<p align="center">
+  <a href="https://colab.research.google.com/drive/1uzY7cEri-pxx9fka9x0iATPSzPSVOlMr?usp=sharing" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="250"/>
+  </a>
+</p>
+
+
 ______________________
 
 📌 Energy Demand Forecasting with IBM Granite Time Series (TTM)
