@@ -175,8 +175,12 @@ plot_predictions(
 
 
 # 🔹 Skills You’ll Learn
-# ✅ Time series forecasting with pre-trained foundation models
-# ✅ Handling & preprocessing real-world datasets
-# ✅ Building forecasting pipelines with Hugging Face assets
-# ✅ Visualization of time series trends & forecasts
+
+✅ Time series forecasting with pre-trained foundation models
+
+✅ Handling & preprocessing real-world datasets
+
+✅ Building forecasting pipelines with Hugging Face assets
+
+✅ Visualization of time series trends & forecasts
 
