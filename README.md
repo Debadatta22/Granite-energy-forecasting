@@ -169,9 +169,12 @@ plot_predictions(
 ```
 
 # 🔹 Key Insights
-# - Granite TTMs are lightweight & efficient yet powerful.
-# - Support zero-shot predictions without fine-tuning.
-# - End-to-end pipeline: Data → Model → Forecast → Visualization.
+
+- Granite TTMs are lightweight & efficient yet powerful.
+
+- Support zero-shot predictions without fine-tuning.
+
+- End-to-end pipeline: Data → Model → Forecast → Visualization.
 
 
 # 🔹 Skills You’ll Learn
